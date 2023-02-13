@@ -72,4 +72,4 @@ For support, visit our website http://rayhaangeneral.gq
  
   <img src="https://img.shields.io/badge/Version-1.3.2-green?style=for-the-badge"> <img src="https://img.shields.io/maintenance/yes/2023?style=for-the-badge">
  
-  <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square"> <img src="https://img.shields.io/badge/Author-rayhaan77666-blue?style=flat-square"> <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square"> <img src="https://img.shields.io/badge/Author-rayhaangeneral-blue?style=flat-square"> <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
